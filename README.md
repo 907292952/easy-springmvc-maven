@@ -1,2 +1,3 @@
-# easy-springmvc-maven
-907292952/easy-springmvc-maven
+# Easy Springmvc Maven
+
+An simple demo about how to use maven combine spring mvc,for blog sample
